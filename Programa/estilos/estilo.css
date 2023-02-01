@@ -1,0 +1,49 @@
+body{
+    font-family: Helvetica, sans-serif;
+    margin: 0px;
+    background: #ff660018;
+}
+header{
+    background: #ff6600;
+    width: 95%;
+    padding-inline: 2.5%;
+}
+nav{
+    margin-top: auto;
+    background: #ff6600;
+}
+#logo{
+    padding-block: 15px;
+}
+
+#wrap{
+    width: 95%;
+    margin: auto;
+}
+
+aside ul{
+    list-style: none;
+    padding-left: 0px;
+}
+
+footer{
+    padding: 5px;
+    background: #ff6600;
+    clear: both;
+}
+
+#imagens{
+    display: flex;
+    width: 100%;
+}
+#imagens>section{
+    width: 31.333%;
+    padding: 1%;
+}
+#imagens img{
+    width: 100%;
+}
+#imagens h3{
+    text-align: center;
+}
+
